@@ -4,11 +4,11 @@ import 'package:flex_seed_scheme/flex_seed_scheme.dart';
 
 class AppThemeData {
   static final ColorScheme _lightColorScheme = SeedColorScheme.fromSeeds(
-    brightness: Brightness.dark,
+    brightness: Brightness.light,
     primary: const Color(0xFFF3956F),
     primaryKey: Color(0xFFDA6237),
     secondaryKey: Color(0xFFBB3838),
-    tones: FlexTones.vivid(Brightness.dark),
+    tones: FlexTones.vivid(Brightness.light),
   );
 
   static final ColorScheme _darkColorScheme = SeedColorScheme.fromSeeds(
