@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "db745329a00cee8bc071af7e691da0bc",
+"main.dart.js": "de62bbdcf0247d73c8867a65ccc2b8f8",
 "version.json": "9a74f2fb2b088e615af41ce7f382f1cc",
 "assets/assets/schedulebuilder_screenshot.png": "2dd33a1ef30425a6b9551475fed57e18",
 "assets/assets/weekly-reports/Week1.pdf": "9ec330ee437bee44f6c250e808c3983d",
@@ -41,8 +41,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "80ba466db7d7545c420e03d03e00d447",
-"/": "80ba466db7d7545c420e03d03e00d447",
+"index.html": "096cd8c9669dc17b5873540086609077",
+"/": "096cd8c9669dc17b5873540086609077",
 "manifest.json": "bd385960d3777862b7e4d49153ead9c3"
 };
 

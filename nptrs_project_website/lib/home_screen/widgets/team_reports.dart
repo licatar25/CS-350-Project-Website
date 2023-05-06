@@ -65,6 +65,7 @@ class DocumentButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialButton(
       onPressed: () async {
+        DefaultAssetBundle.of(context).load(documentPath);
         if (!await launchUrl(Uri.parse(documentPath))) {
           throw Exception('Could not launch $documentPath');
         }
