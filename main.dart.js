@@ -61679,7 +61679,7 @@ p=p?B.kH:o
 return new A.or(new A.qr(n,new A.Kw(o,o,1/0,56),o),A.qL(A.oG(new A.CH(q,new A.dt(s,16,s,16),B.aV,!1,o,o,p,!1,o,8,B.b_,B.uo,o,B.ad,o),r.a.b,o),o,o),o)}}
 A.Ec.prototype={
 O(a){var s=null,r=A.oY(A.dW(A.a([A.dW(s,A.ac(a).p3.e,"Project Overview\n"),A.dW(s,A.ac(a).p3.z,"Majorizer is an application that simplifies course planning for students and advisors. It streamlines the tedious process of crossreferencing prerequisites and common courses between majors and minors.\n\nFeatures:\n  -   Add and save up to two majors and two minors to be considered for course planning.\n  -   Add and save previous courses to generate schedules that account for credit already earned.\n  -   Integrated Course Catalog, GPA Calculator, and Advisor Contact page for easy access to commonly needed information.                        \n  -   Student list for Advisor's convenience.\n")],t.nO),s,s),s,s)
-return A.zx(new A.ed(B.dg,A.m0(A.a([new A.jA(2,B.fe,r,s),B.Gq,new A.jA(3,B.fd,new A.rS(A.aqb(s,s,new A.qs("/schedulebuilder_screenshot.png",s,s)),B.wa,B.d6,"Schedule Builder Screenshot",s),s)],t.E),B.b8,B.aN),s),s)}}
+return A.zx(new A.ed(B.dg,A.m0(A.a([new A.jA(2,B.fe,r,s),B.Gq,new A.jA(3,B.fd,new A.rS(A.aqb(s,s,new A.qs("assets/schedulebuilder_screenshot.png",s,s)),B.wa,B.d6,"Schedule Builder Screenshot",s),s)],t.E),B.b8,B.aN),s),s)}}
 A.G9.prototype={
 O(a){var s=null
 return A.zx(new A.ed(B.dg,A.Q_(A.a([A.oY(A.dW(s,A.ac(a).p3.e,"Team Members\n"),s,s),A.m0(B.AZ,B.bB,B.aN),A.m0(B.A8,B.bB,B.aN),A.m0(B.AX,B.bB,B.aN),A.m0(B.AN,B.bB,B.aN),A.m0(B.BC,B.b8,B.aN)],t.E),B.b8,B.cw),s),s)}}
@@ -66971,7 +66971,7 @@ return A.a3e(A.he(24,B.j),A.he(20,B.j),A.he(16,B.bb),q,q,q,n,m,l,o,q,p,A.he(32,B
 r($,"azL","alB",()=>{var q,p,o,n=J.afw(16,A.a1("h7"))
 for(q=0;q<16;q=p){p=q+1
 o=""+p
-n[q]=new A.h7("/weekly-reports/Week"+o+".pdf","Week"+o+".pdf",null)}return n})
+n[q]=new A.h7("assets/weekly-reports/Week"+o+".pdf","Week"+o+".pdf",null)}return n})
 s($,"awY","ajT",()=>new A.H())
 s($,"awZ","ajU",()=>A.agG(null,t.S))
 s($,"ax0","NZ",()=>A.afa())

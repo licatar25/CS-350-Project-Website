@@ -23,8 +23,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/schedulebuilder_screenshot.png
     - assets/weekly-reports/
     - assets/AllDocuments.zip
+    - assets/schedulebuilder_screenshot.png
     - assets/SoftwareRequirementsSpecification.pdf
+    - assets/TestingRequirements.pdf
     - assets/Week1-16.zip
