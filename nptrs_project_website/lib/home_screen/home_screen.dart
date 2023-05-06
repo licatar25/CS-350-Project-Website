@@ -61,15 +61,15 @@ class HomeScreen extends StatelessWidget {
 List<DocumentButton> fancyButtons = const [
   DocumentButton(
       documentName: 'Requirements Document.pdf',
-      documentPath: 'assets/SoftwareRequirementsSpecification.pdf'),
+      documentPath: 'assets/assets/SoftwareRequirementsSpecification.pdf'),
   DocumentButton(
       documentName: 'Testing Document.pdf',
-      documentPath: 'assets/TestingRequirements.pdf'),
+      documentPath: 'assets/assets/TestingRequirements.pdf'),
   DocumentButton(
-      documentName: 'All Documents.zip',
-      documentPath: 'assets/AllDocuments.zip'),
+      documentName: 'AllDocuments.zip',
+      documentPath: 'assets/assets/AllDocuments.zip'),
   DocumentButton(
     documentName: 'Week1-16.zip',
-    documentPath: 'assets/Week1-16.zip',
+    documentPath: 'assets/assets/Week1-16.zip',
   ),
 ];

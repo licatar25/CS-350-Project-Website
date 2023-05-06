@@ -85,20 +85,4 @@ List<DocumentButton> buttons = List.generate(
     16,
     (index) => DocumentButton(
         documentName: 'Week${index + 1}.pdf',
-        documentPath: 'assets/weekly-reports/Week${index + 1}.pdf'));
-
-List<DocumentButton> fancyButtons = const [
-  DocumentButton(
-      documentName: 'Requirements Document.pdf',
-      documentPath: 'assets/SoftwareRequirementsSpecification.pdf'),
-  DocumentButton(
-      documentName: 'Testing Document.pdf',
-      documentPath: 'assets/TestingRequirements.pdf'),
-  DocumentButton(
-      documentName: 'AllDocuments.zip',
-      documentPath: 'assets/AllDocuments.zip'),
-  DocumentButton(
-    documentName: 'Week1-16.zip',
-    documentPath: 'assets/Week1-16.zip',
-  ),
-];
+        documentPath: 'assets/assets/weekly-reports/Week${index + 1}.pdf'));
