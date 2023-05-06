@@ -35,7 +35,7 @@ Features:
             flex: 3,
             fit: FlexFit.tight,
             child: Image.asset(
-              "../../../assets/schedulebuilder_screenshot.png",
+              "/schedulebuilder_screenshot.png",
               alignment: Alignment.centerRight,
               semanticLabel: "Schedule Builder Screenshot",
               fit: BoxFit.cover,

@@ -25,3 +25,6 @@ flutter:
   assets:
     - assets/schedulebuilder_screenshot.png
     - assets/weekly-reports/
+    - assets/AllDocuments.zip
+    - assets/SoftwareRequirementsSpecification.pdf
+    - assets/Week1-16.zip
