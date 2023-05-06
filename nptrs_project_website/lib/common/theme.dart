@@ -6,16 +6,16 @@ class AppThemeData {
   static final ColorScheme _lightColorScheme = SeedColorScheme.fromSeeds(
     brightness: Brightness.light,
     primary: const Color(0xFFF3956F),
-    primaryKey: Color(0xFFDA6237),
-    secondaryKey: Color(0xFFBB3838),
+    primaryKey: const Color(0xFFDA6237),
+    secondaryKey: const Color(0xFFBB3838),
     tones: FlexTones.vivid(Brightness.light),
   );
 
   static final ColorScheme _darkColorScheme = SeedColorScheme.fromSeeds(
     brightness: Brightness.dark,
-    primary: Color(0xFFda6237),
-    primaryKey: Color(0xFFda6237),
-    secondaryKey: Color.fromARGB(255, 187, 56, 56),
+    primary: const Color(0xFFda6237),
+    primaryKey: const Color(0xFFda6237),
+    secondaryKey: const Color.fromARGB(255, 187, 56, 56),
     tones: FlexTones.vivid(Brightness.dark),
   );
 
